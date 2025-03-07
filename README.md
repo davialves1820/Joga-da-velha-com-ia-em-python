@@ -16,6 +16,8 @@ O programa implementa um jogo da velha onde o adversário é uma Inteligência A
    - Em último caso, a IA marca qualquer quadrado vazio.
 
 ## 📂 Organização
+- pycache: Pasta com o arquivo de execução.
+
 - buttons.py: Gerenciamento de botões na interface.
 
 - tabuleiro_screen.py: Tela do tabuleiro.
